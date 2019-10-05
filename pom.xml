@@ -3,7 +3,6 @@
   <groupId>com.wipro</groupId>
   <artifactId>mavendevop</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-<package>jar</package>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependency>
