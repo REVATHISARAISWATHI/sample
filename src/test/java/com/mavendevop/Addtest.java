@@ -10,9 +10,10 @@ public class Addtest {
 	@Test
 	public void test() {
 		Add a=new Add();
-		
-		assertEquals(6,a.addf(2,4));
-		assertEquals(8,a.addf(4,4));
+		int rs=a.addf(2,4);
+		int rs1=a.addf(4,4);
+		assertEquals(6,rs);
+		assertEquals(8,rs1);
 		
 
 	}
